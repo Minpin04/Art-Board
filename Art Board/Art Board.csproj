@@ -96,9 +96,6 @@
     </Page>
   </ItemGroup>
   <ItemGroup>
-    <Resource Include="Images\google.png" />
-  </ItemGroup>
-  <ItemGroup>
     <Resource Include="Images\file_open.png" />
   </ItemGroup>
   <ItemGroup>
@@ -106,6 +103,11 @@
   </ItemGroup>
   <ItemGroup>
     <Resource Include="Images\set_on_top.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\pexels-michael-giugliano-2928058.jpg" />
+    <Resource Include="Images\pexels-photo-1128540.jpeg" />
+    <Resource Include="Images\pexels-photo-3160075.jpeg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
